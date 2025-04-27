@@ -1,9 +1,11 @@
 import os
 import requests
 from bs4 import BeautifulSoup
+from bs4 import NavigableString
 
 # ==== 1. 基本設定 ====
 base_url = "https://toefl.kmf.com/read/ets/new-order/11/0"
+link_head = "https://toefl.kmf.com/"
 save_folder = "C:\code\mini_project\save_toefl\output_texts"
 
 # 建立儲存資料夾
@@ -20,10 +22,10 @@ for link in link_elements:
 
 # 提取連結網址
 links = [link.get('href') for link in link_elements]
-links = links[:1]
+# links = links[:1]
 
 # # 如果網址是相對路徑，補上完整網址
-full_links = ["https://toefl.kmf.com/" + link for link in links]
+full_links = [link_head + link for link in links]
 
 print(f"找到 {len(full_links)} 個連結！")
 
@@ -40,55 +42,69 @@ def get_article_in_page(soup):
     # 使用 CSS 選擇器選取 class 為 'article-box js-article-box' 的第一個元素
     article_element = soup.select_one("li.article-box.js-article-box")
     if article_element:
-        return article_element.get_text(separator="\n", strip=True)
+        # print(article_element.get_text(separator=" ", strip=True))
+        return [article_element.get_text(separator=" ", strip=True)]
 
 class question_button:
-    def __init__(self, soup):
+    def __init__(self, link):
         self.class_q = "question-link"
         self.hrefs = []
         self.current = 0
         self.max_num_of_q = 10
-        buttons = soup.find_all("a", class_=self.class_q)
+        self.href = link
+        page_resp = requests.get(self.href)
+        self.page_soup = BeautifulSoup(page_resp.text, 'html.parser')
+        buttons = self.page_soup.find_all( class_=self.class_q)
         self.hrefs = [b.get("href") for b in buttons ]
         self.hrefs = self.hrefs[:self.max_num_of_q] 
-        for h in self.hrefs:
-            print(h)
+
     def exist_next_question(self):
         if self.current >= self.max_num_of_q:
             return None
+        self.href = link_head + self.hrefs[self.current]
+        print(f"link {self.current+1}:", self.href)
+        page_resp = requests.get(self.href)
+        self.page_soup = BeautifulSoup(page_resp.text, 'html.parser')
         self.current += 1
         return True
 
 
 
 def get_question_in_page(soup):
-    CLASS_TO_COPY = ["question-title", "section", "normal"]
+    CLASS_TO_COPY = ["question-title", "normal", "insert-article"]
+    BOX_ARTICLE = "article-box js-article-box"
     texts = []
     for class_name in CLASS_TO_COPY:
         elements = soup.select(f".{class_name}")
+        
         for element in elements:
             text = element.get_text(separator=' ', strip=True)
             texts.append(text)
-        texts.append("\n")
-    for text in texts:
-        print(text)
+        if class_name == "insert-article" and elements:
+            for i_tag in soup.find_all('i', class_='insert-button js-insert-button js-mocks-scroll'):
+                i_tag.replace_with(NavigableString('[]'))
+            element_article_box = soup.select_one("li.article-box.js-article-box")
+            text = element_article_box.get_text(separator=' ', strip=True)
+            texts.append(text)
+    texts.append("\n")
+    # for text in texts:
+    #     print(text)
     return texts
 
-
+def txt_to_pdf():
+    pass
 
 # ==== 3. 逐個進去，抓題目內容 ====
 for idx, link in enumerate(full_links, start=1):
-    page_resp = requests.get(link)
-    page_soup = BeautifulSoup(page_resp.text, 'html.parser')
+    
 
     # 找到所有題目內容（根據網站結構調整）
     texts = []
-    qb = question_button(page_soup)
-    texts += get_article_in_page(page_soup)
+    qb = question_button(link)
+    texts += get_article_in_page(qb.page_soup)
     while (qb.exist_next_question()):
-        texts += f"question {qb.current}"
-        texts += get_question_in_page(page_soup)
-    print(texts)
+        texts += [f"question {qb.current}"]
+        texts += get_question_in_page(qb.page_soup)
     # 儲存成 txt 檔
     save_path = os.path.join(save_folder, f"page_{idx}.txt")
     with open(save_path, 'w', encoding='utf-8') as f:
