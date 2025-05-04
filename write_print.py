@@ -9,7 +9,7 @@ pdf_folder = r"C:\code\mini_project\save_toefl\write_pdfs"
 pdf_files = [f for f in os.listdir(pdf_folder) if f.endswith(".pdf")]
 
 selected_pdfs = []
-target_tpo = ["5", "6", "7", "8", "9"]
+target_tpo = ["05", "06", "07", "08", "09"]
 
 
 for f in pdf_files:
