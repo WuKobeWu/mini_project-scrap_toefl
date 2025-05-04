@@ -3,40 +3,35 @@ import requests
 from bs4 import BeautifulSoup
 from bs4 import NavigableString
 
-# ==== 1. 基本設定 ====
-base_url = "https://toefl.kmf.com/read/ets/new-order/11/0"
-link_head = "https://toefl.kmf.com/"
-save_folder = "C:\code\mini_project\save_toefl\output_texts"
+LINK_HEAD = "https://toefl.kmf.com/"
+SAVE_FOLDER = "C:\code\mini_project\save_toefl\output_texts"
 
-# 建立儲存資料夾
-os.makedirs(save_folder, exist_ok=True)
+def get_links(idx):
+    # ==== 1. 基本設定 ====
+    BASE_URL = f"https://toefl.kmf.com/read/ets/new-order/{idx}/0"
 
-# ==== 2. 爬首頁，找到所有連結 ====
-response = requests.get(base_url)
-soup = BeautifulSoup(response.text, 'html.parser')
+    # 建立儲存資料夾
+    os.makedirs(SAVE_FOLDER, exist_ok=True)
 
-# 找出所有按鈕連結（根據網站結構調整）
-link_elements = soup.find_all('a', class_='practice-title js-practice-title')
-for link in link_elements:
-    print(link.get('href'))
+    # ==== 2. 爬首頁，找到所有連結 ====
+    response = requests.get(BASE_URL)
+    soup = BeautifulSoup(response.text, 'html.parser')
 
-# 提取連結網址
-links = [link.get('href') for link in link_elements]
-# links = links[:1]
+    # 找出所有按鈕連結（根據網站結構調整）
+    link_elements = soup.find_all('a', class_='practice-title js-practice-title')
+    for link in link_elements:
+        print(link.get('href'))
 
-# # 如果網址是相對路徑，補上完整網址
-full_links = [link_head + link for link in links]
+    # 提取連結網址
+    links = [link.get('href') for link in link_elements]
+    # links = links[:1]
 
-print(f"找到 {len(full_links)} 個連結！")
+    # # 如果網址是相對路徑，補上完整網址
+    full_links = [LINK_HEAD + link for link in links]
 
-# ==== 3. def the type of class to copy ====
-# CLASS_TO_COPY = ["question-title", "section", "options-sn"]
-# def get_text_in_page():
-#     for class_name in CLASS_TO_COPY:
-#         question_elements = soup.find_all(class_=class_name)
-#         for element in question_elements:
-#             print(element.get_text(strip=True))
-#     return 0
+    print(f"找到 {len(full_links)} 個連結！")
+    return full_links
+
 
 def get_article_in_page(soup):
     # 使用 CSS 選擇器選取 class 為 'article-box js-article-box' 的第一個元素
@@ -61,7 +56,7 @@ class question_button:
     def exist_next_question(self):
         if self.current >= self.max_num_of_q:
             return None
-        self.href = link_head + self.hrefs[self.current]
+        self.href = LINK_HEAD + self.hrefs[self.current]
         print(f"link {self.current+1}:", self.href)
         page_resp = requests.get(self.href)
         self.page_soup = BeautifulSoup(page_resp.text, 'html.parser')
@@ -95,34 +90,28 @@ def txt_to_pdf():
     pass
 
 # ==== 3. 逐個進去，抓題目內容 ====
-for idx, link in enumerate(full_links, start=1):
-    
+if __name__ == "__main__":
+    for i in range(11,0, -1):
+        print(f"this is set number {56-5*i} - {60-5*i}")
+        full_links = get_links(i)
+        for idx, link in enumerate(full_links, start=1):
+            tpo = 60-5*i - (idx-1) // 3
+            passage = (idx-1) % 3 + 1
+            print(f"tpo {tpo} passage {passage}")
 
-    # 找到所有題目內容（根據網站結構調整）
-    texts = []
-    qb = question_button(link)
-    texts += get_article_in_page(qb.page_soup)
-    while (qb.exist_next_question()):
-        texts += [f"question {qb.current}"]
-        texts += get_question_in_page(qb.page_soup)
-    # 儲存成 txt 檔
-    save_path = os.path.join(save_folder, f"page_{idx}.txt")
-    with open(save_path, 'w', encoding='utf-8') as f:
-        for text in texts:
-            f.write(text + '\n')
+            # 找到所有題目內容（根據網站結構調整）
+            texts = []
+            qb = question_button(link)
+            texts += get_article_in_page(qb.page_soup)
+            while (qb.exist_next_question()):
+                texts += [f"question {qb.current}"]
+                texts += get_question_in_page(qb.page_soup)
+            # 儲存成 txt 檔
+            save_path = os.path.join(SAVE_FOLDER, f"tpo_{tpo}_passage_{passage}.txt")
+            with open(save_path, 'w', encoding='utf-8') as f:
+                for text in texts:
+                    f.write(text + '\n')
 
-    print(f"第 {idx} 個頁面: {link} 完成")
+            print(f"第 {idx} 個頁面: {link} 完成")
 
-
-
-    # # 把所有題目文字合併
-    # questions_text = '\n\n'.join(q.get_text(strip=True) for q in question_elements)
-
-    # # 儲存成 txt 檔
-    # save_path = os.path.join(save_folder, f"page_{idx}.txt")
-    # with open(save_path, 'w', encoding='utf-8') as f:
-    #     f.write(questions_text)
-
-    print(f"第 {idx} 個頁面儲存完成！")
-
-print("✅ 全部完成！")
+        print("✅ 全部完成！")

@@ -1,0 +1,80 @@
+In the fourteenth century, a number of political developments cut Europe's overland trade routes to southern and eastern Asia, with which Europe had had important and highly profitable commercial ties since the twelfth century.  This development, coming as it did when the bottom had fallen out of the European economy, provided an impetus to a long-held desire to secure direct relations with the East by establishing a sea trade. Widely reported, if somewhat distrusted, accounts by figures like the famous traveler from Venice, Marco Polo, of the willingness of people in China to trade with Europeans and of the immensity of the wealth to be gained by such contact made the idea irresistible. Possibilities for trade seemed promising, but no hope existed for maintaining the traditional routes over land. A new way had to be found. The chief problem was technological: How were the Europeans to reach the East? Europe's maritime tradition had developed in the context of easily navigable seas-the Mediterranean, the Baltic, and, to a lesser extent, the North Sea between England and the Continent-not of vast oceans. New types of ships were needed, new methods of finding one's way, new techniques for financing so vast a scheme. The sheer scale of the investment it took to begin commercial expansion at sea reflects the immensity of the profits that such East-West trade could create. Spices were the most sought-after commodities. Spices not only dramatically improved the taste of the European diet but also were used to manufacture perfumes and certain medicines. But even high-priced commodities like spices had to be transported in large bulk in order to justify the expense and trouble of sailing around the African continent all the way to India and China. The principal seagoing ship used throughout the Middle Ages was the galley, a long, low ship fitted with sails but driven primarily by oars. The largest galleys had as many as 50 oarsmen. Since they had relatively shallow hulls, they were unstable when driven by sail or when on rough water; hence they were unsuitable for the voyage to the East. Even if they hugged the African coastline, they had little chance of surviving a crossing of the Indian Ocean.  Shortly after 1400, shipbuilders began developing a new type of vessel properly designed to operate in rough, open water: the caravel. It had a wider and deeper hull than the galley and hence could carry more cargo; increased stability made it possible to add multiple masts and sails.  In the largest caravels, two main masts held large square sails that provided the bulk of the thrust driving the ship forward, while a smaller forward mast held a triangular-shaped sail, called a lateen sail, which could be moved into a variety of positions to maneuver the ship. The astrolabe had long been the primary instrument for navigation, having been introduced in the eleventh century.  It operated by measuring the height of the Sun and the fixed stars; by calculating the angles created by these points, it determined the degree of latitude at which one stood. (The problem of determining longitude, though, was not solved until the eighteenth century.) By the early thirteenth century, Western Europeans had also developed and put into use the magnetic compass, which helped when clouds obliterated both the Sun and the stars. Also beginning in the thirteenth century, there were new maps refined by precise calculations and the reports of sailors that made it possible to trace one's path with reasonable accuracy. Certain institutional and practical norms had become established as well. A maritime code known as the Consulate of the Sea, which originated in the western Mediterranean region in the fourteenth century, won acceptance by a majority of sea goers as the normative code for maritime conduct;  it defined such matters as the authority of a ship's officers, protocols of command, pay structures, the rights of sailors, and the rules of engagement when ships met one another on the sea-lanes.  Thus by about 1400 the key elements were in place to enable Europe to begin its seaward adventure.
+question 1
+According to paragraph 1, why was it necessary to find a new way for European merchants to reach the East?
+A People in China were finally ready to trade with Europeans.
+B The European economy was failing because there was no trade with the East.
+C Traditional ways of trading with the East had become very costly.
+D Commercial routes over land had become blocked because of political events.
+
+
+question 2
+According to paragraph 2, what was the main difficulty Europeans had to overcome in order to develop a new way of trading with the East?
+A Europeans were unwilling to invest in large-scale commercial ventures.
+B Europeans lacked the means for navigating long distances across oceans.
+C Europeans were unwilling to experiment with new business techniques.
+D Europeans lacked knowledge about the commercial methods of other peoples.
+
+
+question 3
+Which of the sentences below best expresses the essential information in the highlighted sentence in the passage? Incorrect choices change the meaning in important ways or leave out essential information.
+A The high cost to investors of developing trade by sea between East and West indicates the great size of the profits that such trade could produce.
+B The profits that could be created by sea trade between East and West were immense compared with the investment required to develop such trade.
+C The increase in commercial activity by using sea routes reflects the importance trade between East and West had for investors seeking great profits.
+D Because people made large investments in sea commerce between East and West, they expected to make immense profits.
+
+
+question 4
+It can be inferred from paragraph 2 that spices from Asia were desirable in Europe in the Middle Ages because they
+A were easily transported in large quantities
+B could not be produced in European countries
+C could be traded for products such as perfumes and medicines
+D were expected to increase in value over time
+
+
+question 5
+According to paragraph 3, all of the following statements comparing the caravel with the galley are true EXCEPT:
+A The caravel had fewer masts than the galley.
+B The caravel had a wider hull than the galley.
+C The caravel could carry more cargo than the galley.
+D The caravel was more stable in rough water than the galley.
+
+
+question 6
+According to paragraph 3, what did the lateen sail contribute to the caravel as a sailing ship?
+A It provided stability for the front part of the ship.
+B It made it possible for the hull to be wider and deeper.
+C It added considerably to the speed of the wind-driven ship.
+D It improved the capacity of the ship to be guided.
+
+
+question 7
+Why does the author include the information that Western Europeans had “developed and put into use the magnetic compass” ?
+A To provide an example of an instrument that was developed after caravels had begun traveling across oceans
+B To provide an example of an improvement that resulted directly from the invention of the astrolabe
+C To identify one of the technological advances that made sea trade with the East possible
+D To explain how the problem of determining longitude was solved
+
+
+question 8
+According to paragraph 4, which of the following is true of the maritime code developed in Europe in the fourteenth century?
+A It mapped out lanes in the seas for trading ships to follow.
+B It defined the ways in which people should behave at sea.
+C It replaced an earlier code that could not be adapted to the sea trade with the East.
+D It gave instructions on how to navigate a ship.
+
+
+question 9
+Look at the four squares [ ] that indicate where the following sentence could be added to the passage.
+In the fourteenth century, a number of political developments cut Europe's overland trade routes to southern and eastern Asia, with which Europe had had important and highly profitable commercial ties since the twelfth century.  This development, coming as it did when the bottom had fallen out of the European economy, provided an impetus to a long-held desire to secure direct relations with the East by establishing a sea trade. Widely reported, if somewhat distrusted, accounts by figures like the famous traveler from Venice, Marco Polo, of the willingness of people in China to trade with Europeans and of the immensity of the wealth to be gained by such contact made the idea irresistible. Possibilities for trade seemed promising, but no hope existed for maintaining the traditional routes over land. A new way had to be found. The chief problem was technological: How were the Europeans to reach the East? Europe's maritime tradition had developed in the context of easily navigable seas-the Mediterranean, the Baltic, and, to a lesser extent, the North Sea between England and the Continent-not of vast oceans. New types of ships were needed, new methods of finding one's way, new techniques for financing so vast a scheme. The sheer scale of the investment it took to begin commercial expansion at sea reflects the immensity of the profits that such East-West trade could create. [] Spices were the most sought-after commodities. [] Spices not only dramatically improved the taste of the European diet but also were used to manufacture perfumes and certain medicines. [] But even high-priced commodities like spices had to be transported in large bulk in order to justify the expense and trouble of sailing around the African continent all the way to India and China. [] The principal seagoing ship used throughout the Middle Ages was the galley, a long, low ship fitted with sails but driven primarily by oars. The largest galleys had as many as 50 oarsmen. Since they had relatively shallow hulls, they were unstable when driven by sail or when on rough water; hence they were unsuitable for the voyage to the East. Even if they hugged the African coastline, they had little chance of surviving a crossing of the Indian Ocean.  Shortly after 1400, shipbuilders began developing a new type of vessel properly designed to operate in rough, open water: the caravel. It had a wider and deeper hull than the galley and hence could carry more cargo; increased stability made it possible to add multiple masts and sails.  In the largest caravels, two main masts held large square sails that provided the bulk of the thrust driving the ship forward, while a smaller forward mast held a triangular-shaped sail, called a lateen sail, which could be moved into a variety of positions to maneuver the ship. The astrolabe had long been the primary instrument for navigation, having been introduced in the eleventh century.  It operated by measuring the height of the Sun and the fixed stars; by calculating the angles created by these points, it determined the degree of latitude at which one stood. (The problem of determining longitude, though, was not solved until the eighteenth century.) By the early thirteenth century, Western Europeans had also developed and put into use the magnetic compass, which helped when clouds obliterated both the Sun and the stars. Also beginning in the thirteenth century, there were new maps refined by precise calculations and the reports of sailors that made it possible to trace one's path with reasonable accuracy. Certain institutional and practical norms had become established as well. A maritime code known as the Consulate of the Sea, which originated in the western Mediterranean region in the fourteenth century, won acceptance by a majority of sea goers as the normative code for maritime conduct;  it defined such matters as the authority of a ship's officers, protocols of command, pay structures, the rights of sailors, and the rules of engagement when ships met one another on the sea-lanes.  Thus by about 1400 the key elements were in place to enable Europe to begin its seaward adventure.
+
+
+question 10
+Directions: An introductory sentence for a brief summary of the passage is provided below. Complete the summary by selecting the THREE answer choices that express the most important ideas in the passage. Some sentences do not belong in the summary because they express ideas that are not presented in the passage or are minor ideas in the passage. This question is worth 2 points.
+A. Reports by travelers indicated that people in Asia were interested in renewing trade with Europeans.
+B. Europeans wanted to import spices from Asia in order to improve the taste of food and to make perfumes and medicines.
+C. For trade in Asian goods such as spices to be profitable, these items needed to be transported in large quantities by sea.
+D. European galleys were able to bring Asian goods across the Indian Ocean and around the African coastline.
+E. Wind-driven caravels were developed to carry cargo across the oceans.
+F. The development of maps, navigational instruments, and a maritime code of conduct provided crucial elements for long-distance navigation.
+
+

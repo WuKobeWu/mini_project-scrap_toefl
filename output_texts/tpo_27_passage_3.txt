@@ -1,0 +1,80 @@
+Some of the earliest human civilizations arose in southern Mesopotamia, in what is now southern Iraq, in the fourth millennium B.C.E. In the second half of that millennium, in the south around the city of Uruk, there was an enormous escalation in the area occupied by permanent settlements A large part of that increase took place in Uruk itself, which became a real urban center surrounded by a set of secondary settlements. While population estimates are notoriously unreliable, scholars assume that Uruk inhabitants were able to support themselves from the agricultural production of the fields surrounding the city, which could be reached with a daily commute. But Uruk's dominant size in the entire region, far surpassing that of other settlements, indicates that it was a regional center and a true city. Indeed, it was the first city in human history. The vast majority of its population remained active in agriculture, even those people living within the city itself. But a small segment of the urban society started to specialize in nonagricultural tasks as a result of the city's role as a regional center. Within the productive sector, there was a growth of a variety of specialist craftspeople. Early in the Uruk period, the use of undecorated utilitarian pottery was probably the result of specialized mass production. In an early fourth-millennium level of the Eanna archaeological site at Uruk, a pottery style appears that is most characteristic of this process, the so-called beveled-rim bowl. It is a rather shallow bowl that was crudely made in a mold; hence, in only a limited number of standard sizes. For some unknown reason, many were discarded, often still intact, and thousands have been found all over the Near East. The beveled-rim bowl is one of the most telling diagnostic finds for identifying an Uruk-period site.  Of importance is the fact that it was produced rapidly in large amounts, most likely by specialists in a central location. A variety of documentation indicates that certain goods, once made by a family member as one of many duties, were later made by skilled artisans. Certain images depict groups of people, most likely women, involved in weaving textiles, an activity we know from later third-millennium texts to have been vital in the economy and to have been centrally administered. Also, a specialized metal-producing workshop may have been excavated in a small area at Uruk. It contained a number of channels lined by a sequence of holes, about 50 centimeters deep, all showing burn marks and filled with ashes. This has been interpreted as the remains of a workshop where molten metal was scooped up from the channel and poured into molds in the holes. Some type of mass production by specialists was involved here. Objects themselves suggest that they were the work of skilled professionals. In the late Uruk period (3500–3100 B.C.E.), there first appeared a type of object that remained characteristic for Mesopotamia throughout its entire history: the cylinder seal. This was a small cylinder, usually no more than 3 centimeters high and 2 centimeters in diameter, of shell, bone, faience (a glassy type of stoneware), or various types of stones, on which a scene was carved into the surface. When rolled over a soft material-primarily the clay of bullae (round seals), tablets, or clay lumps attached to boxes, jars, or door bolts-the scene would appear in relief a type of sculpture in which the subjects project from the background, easily legible. The technological knowledge needed to carve it was far superior to that for stamp seals, which had happened in the early Neolithic period (approximately 10,000–5000 B.C.E.). From the first appearance of cylinder seals, the carved scenes could be highly elaborate and refined, indicating the work of specialist stone-cutters. Similarly, the late Uruk period shows the first monumental art, relief, and statuary in the round, made, with a degree of mastery that only a professional could have produced.
+question 1
+Which of the sentences below best expresses the essential information in the highlighted sentence in the passage? Incorrect choices change the meaning in important ways or leave out essential information.
+A Although scholars cannot accurately determine the size of the Uruk population, they know the citizens were not dependent on agriculture.
+B Scholars do not have enough evidence to determine whether the agricultural areas just outside of Uruk were large enough to feed the city’s population.
+C Because city populations cannot feed themselves, scholars think the surrounding farms provided food for the people in Uruk.
+D Scholars believe that the inhabitants of Uruk were able to support themselves from produce grown in fields surrounding the city.
+
+
+question 2
+The word “surpassing” in the passage is closest in meaning to
+A preceding
+B exceeding
+C challenging
+D outlasting
+
+
+question 3
+According to paragraph 1, all of the following are true of the ancient settlement at Uruk EXCEPT:
+A It was a permanent settlement.
+B It was self-sufficient.
+C It was one of a group of other large settlements.
+D It had easy access to the land where its crops were grown.
+
+
+question 4
+According to paragraph 2, which of the following best describes the beveled-rim bowls from the Eanna archaeological site at Uruk?
+A They were discarded because they became unpopular.
+B They varied greatly in shape and decoration.
+C They were each individually styled.
+D They were made in only a few sizes.
+
+
+question 5
+Which of the following can be inferred from paragraph 2 about craft production in the Uruk period?
+A Specialists in nonagricultural tasks obtained a higher social status than those engaged in agricultural production.
+B People not needed for farming could perform other more specialized activities.
+C Ancient crafts were beginning to be produced for both utilitarian and decorative purposes.
+D Pottery making was the only craft known during the fourth millennium.
+
+
+question 6
+According to paragraph 3, which of the following is true of textile production after the fourth millennium?
+A It had an important commercial value.
+B It existed but was not well organized.
+C It is not documented in the archaeological record.
+D It was carried on by individuals in their own homes.
+
+
+question 7
+What is the purpose of paragraph 3?
+A To contrast the productivity of crafts workers in the third and fourth millennia
+B To provide additional evidence of mass production by crafts workers
+C To suggest that an early form of urban settlement may have existed before Uruk
+D To contrast the development of weaving and pottery in Uruk
+
+
+question 8
+Paragraph 4 suggests which of the following about the significance of Mesopotamian cylinder seals?
+A They were designed more for home than for legal use.
+B They demonstrate that their creators were professionals.
+C They were the first example of seals made from materials other than stone.
+D They were the first example of carved seals.
+
+
+question 9
+Look at the four squares [ ] that indicate where the following sentence could be added to the passage.
+Some of the earliest human civilizations arose in southern Mesopotamia, in what is now southern Iraq, in the fourth millennium B.C.E. In the second half of that millennium, in the south around the city of Uruk, there was an enormous escalation in the area occupied by permanent settlements A large part of that increase took place in Uruk itself, which became a real urban center surrounded by a set of secondary settlements.  While population estimates are notoriously unreliable, scholars assume that Uruk inhabitants were able to support themselves from the agricultural production of the fields surrounding the city, which could be reached with a daily commute.  But Uruk's dominant size in the entire region, far surpassing that of other settlements, indicates that it was a regional center and a true city. Indeed, it was the first city in human history. The vast majority of its population remained active in agriculture, even those people living within the city itself. But a small segment of the urban society started to specialize in nonagricultural tasks as a result of the city's role as a regional center. Within the productive sector, there was a growth of a variety of specialist craftspeople. Early in the Uruk period, the use of undecorated utilitarian pottery was probably the result of specialized mass production. In an early fourth-millennium level of the Eanna archaeological site at Uruk, a pottery style appears that is most characteristic of this process, the so-called beveled-rim bowl. It is a rather shallow bowl that was crudely made in a mold; hence, in only a limited number of standard sizes. For some unknown reason, many were discarded, often still intact, and thousands have been found all over the Near East. The beveled-rim bowl is one of the most telling diagnostic finds for identifying an Uruk-period site.  Of importance is the fact that it was produced rapidly in large amounts, most likely by specialists in a central location. A variety of documentation indicates that certain goods, once made by a family member as one of many duties, were later made by skilled artisans. Certain images depict groups of people, most likely women, involved in weaving textiles, an activity we know from later third-millennium texts to have been vital in the economy and to have been centrally administered. Also, a specialized metal-producing workshop may have been excavated in a small area at Uruk. It contained a number of channels lined by a sequence of holes, about 50 centimeters deep, all showing burn marks and filled with ashes. This has been interpreted as the remains of a workshop where molten metal was scooped up from the channel and poured into molds in the holes. Some type of mass production by specialists was involved here. Objects themselves suggest that they were the work of skilled professionals. In the late Uruk period (3500–3100 B.C.E.), there first appeared a type of object that remained characteristic for Mesopotamia throughout its entire history: the cylinder seal. [] This was a small cylinder, usually no more than 3 centimeters high and 2 centimeters in diameter, of shell, bone, faience (a glassy type of stoneware), or various types of stones, on which a scene was carved into the surface. [] When rolled over a soft material-primarily the clay of bullae (round seals), tablets, or clay lumps attached to boxes, jars, or door bolts-the scene would appear in relief a type of sculpture in which the subjects project from the background, easily legible. [] The technological knowledge needed to carve it was far superior to that for stamp seals, which had happened in the early Neolithic period (approximately 10,000–5000 B.C.E.). [] From the first appearance of cylinder seals, the carved scenes could be highly elaborate and refined, indicating the work of specialist stone-cutters. Similarly, the late Uruk period shows the first monumental art, relief, and statuary in the round, made, with a degree of mastery that only a professional could have produced.
+
+
+question 10
+Directions: An introductory sentence for a brief summary of the passage is provided below. Complete the summary by selecting the THREE answer choices that express the most important ideas in the passage. Some sentences do not belong in the summary because they express ideas that are not presented in the passage or are minor ideas in the passage. This question is worth 2 points.
+A. A variety of evidence indicates that Uruk, while it supported itself primarily by agriculture, also had specialized craft workers.
+B. Archaeological evidence from across the Near East indicates that Uruk was a center for the production and export of highly decorated pottery made by craft specialists in private homes.
+C. Cylinder seals from the late Uruk period are far superior to the stamp seals of the earlier Neolithic period.
+D. The large number, standardized sizes, and simple molded construction of a type of pottery produced in Uruk demonstrate specialized, centrally organized mass production.
+E. The monumental sculptures of Uruk were made by the specialist stone cutters who also produced small-scale relief scenes on shell, bone and faience.
+F. The carved designs on cylinder seals produced in Uruk are of such technical and artistic excellence that they could only have been produced by professional artisans.
+
+

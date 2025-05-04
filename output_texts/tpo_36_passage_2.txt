@@ -1,0 +1,81 @@
+In 1841 Edward Forbes was offered the chance to serve as naturalist aboard HMS Beacon, an English Royal Navy ship assigned to survey the Aegean Sea. For a year and a half the Beacon crisscrossed the Aegean waters. During that time Forbes was able to drag his small, triangular dredge-a tool with a leather net for capturing creatures along the sea bottom-at a hundred locations, at depths ranging from 6 to 1,380 feet. He collected hundreds of different species of animals, and he saw that they were distributed in eight different depth zones, each containing its own distinct assemblage of animal life, the way zones of elevation on the side of a mountain are populated by distinct sets of plants. Forbes also thought he saw, as he later told the British Association, that "the number of species and individuals diminishes as we descend, pointing to a zero in the distribution of animal life as yet unvisited. This zero, Forbes casually speculated-he simply extended a line on his graph of animal number versus depth-probably began at a depth of 1,800 feet. Below that was the final zone in Forbes's scheme, zone nine, a zone that covered most of the ocean floor and thus most of the solid surface of Earth: Forbes called this the azoic zone, where no animal, to say nothing of plants, could survive. Forbes's azoic zone was entirely plausible at the time, and it was certainly far from the strangest idea that was then entertained about the deep sea. In the first decade of the nineteenth century, a French naturalist named François Péron had sailed around the world measuring the temperature of the ocean. He found that the deeper the water, the colder it got, and he concluded that the seafloor was covered with a thick layer of ice. Péron ignored the fact that water expands when it freezes and that ice therefore floats. A more popular belief at the time was that water at great depth would be compressed to such a density that nothing could sink through it. This ignored the fact that water is all but incompressible. But even the more sensible naturalists of the day were guilty of a similar misconception. They imagined the deep sea as being filled with an unmoving and undisturbable pool of cold, dense water. In reality the deep is always being refreshed by cold water sinking from above. The central implication of all these misconceptions was that nothing could live in the abyss (deep), just as Forbes's observations seemed to indicate. But Forbes erred in two ways. One was the particular study site he happened to use as a springboard for his sweeping postulate of a lifeless abyss. Although the Aegean had been the birthplace of marine biology, its depths are now known to be exceptionally lacking in animal diversity. Moreover, through no fault of his own, Forbes was not particularly successful at sampling such life as did exist at the bottom of the Aegean. It was his dredge that was inadequate. Its opening was so small and the holes in the net so large that the dredge inevitably missed animals. Many of those it did catch must have poured out of its open mouth when Forbes reeled it in. His azoic zone, then, was a plausible but wild extrapolation from pioneering but feeble data. As it turned out, the existence of the azoic zone had been disproved even before Forbes suggested it, and the theory continued to be contradicted regularly throughout its long and influential life. Searching for the Northwest Passage from the Atlantic to the Pacific in 1818, Sir John Ross had lowered his "deep-sea clam"-a sort of bivalved sediment scoop-into the waters of Baffin Bay(an inlet between the Atlantic and Arctic oceans), which he determined to be more than a thousand fathoms deep in some places. Modern soundings indicate he overestimated his depths by several hundred fathoms, but in any case Ross's clam dove several times deeper than Forbes's dredge. It brought back mud laced with worms, and starfish that had entangled themselves in the line at depths well below the supposed boundary of the azoic zone.
+question 1
+According to paragraph 1, why was the HMS Beacon in the Aegean Sea?
+A To capture creatures along the sea bottom
+B To provide Forbes with transportation back and forth across the Aegean
+C To test the effectiveness of a new type of dredge
+D To carry out a survey of the Aegean Sea
+
+
+question 2
+Which of the sentences below best expresses the essential information in the highlighted sentence in the passage? Incorrect choices change the meaning in important ways or leave out essential information.
+A The hundreds of different species of animals Forbes collected fell into eight distinct groups, each associated with a different depth zone.
+B Forbes realized that depth zones, like elevation zones, contain hundreds of different species.
+C By collecting hundreds of different animals on land and sea, Forbes discovered that there were eight elevation zones and eight depth zones.
+D In addition to collecting different species of animals in eight ocean zones, Forbes collected
+different species of plants in eight mountain zones.
+
+
+question 3
+Why does the author mention that Forbes "extended a line on his graph of animal number versus depth" ?
+A To indicate how Forbes concluded that some forms of animal life in the depths of the ocean had never been seen before
+B To help explain how Forbes arrived at his theory of the azoic zone
+C To make the point that Forbes was a well-trained professional
+D To show how naturalists of Forbes’s time carried out their research
+
+
+question 4
+According to paragraph 2, what did Forbes believe about the possibility of life on the ocean floor deeper than 1,800 feet deep?
+A No plants or animals could live there.
+B Only plants could live there.
+C Only animals could live there.
+D It was not possible to say whether any plants or animals could live there.
+
+
+question 5
+According to paragraph 3, what was wrong with François Péron’s conclusion?
+A It was based on inaccurate temperature measurements.
+B It assumed that the deeper the water, the colder it got.
+C It did not take into account the fact that ice floats.
+D It overlooked the fact that the sea is deeper in some places than in others.
+
+
+question 6
+According to paragraph 4, what did all the ideas about the deep sea discussed in paragraph 3 have in common?
+A They were all based on Forbes’s observations.
+B They all challenged Forbes’s theory.
+C They all presented the deep sea as lifeless.
+D They all underestimated the depth of the sea.
+
+
+question 7
+According to paragraph 4, what was one mistake that Forbes made?
+A He assumed that the Aegean’s depths and other oceans’ depths had comparable animal diversity.
+B He placed too much importance on the fact that the Aegean had been the birthplace of marine biology.
+C He failed to notice that his samples of marine life mostly came from the sea bottom and were not typical of life-forms at higher levels.
+D He did not realize that the seafloor in many parts of Earth is much deeper than it is in the Aegean.
+
+
+question 8
+According to paragraph 4, Forbes’s dredge had each of the following problems EXCEPT:
+A Its opening was too small to collect certain kinds of animals.
+B The holes in its net were so large that animals could escape through them.
+C It could not get all the way down to the Aegean seafloor to sample the animals there.
+D Many animals were lost out of its open mouth when it was pulled up.
+
+
+question 9
+Paragraph 5 strongly suggests which of the following about Forbes and Ross?
+A Forbes got the idea for his dredge from Ross’s deep-sea clam.
+B Forbes did not know about the discoveries Ross had made in Baffin Bay with the help of his
+deep-sea clam.
+C Forbes carried out his investigations in the Aegean partly to disprove Ross’s theory about the
+possibility of life in the abyss.
+D Forbes overestimated the depths of the seas and oceans he studied while Ross’s calculations were as accurate as those provided by modern soundings.
+
+
+question 10
+Look at the four squares [ ] that indicate where the following sentence could be added to the passage.
+In 1841 Edward Forbes was offered the chance to serve as naturalist aboard HMS Beacon, an English Royal Navy ship assigned to survey the Aegean Sea. For a year and a half the Beacon crisscrossed the Aegean waters. During that time Forbes was able to drag his small, triangular dredge-a tool with a leather net for capturing creatures along the sea bottom-at a hundred locations, at depths ranging from 6 to 1,380 feet. He collected hundreds of different species of animals, and he saw that they were distributed in eight different depth zones, each containing its own distinct assemblage of animal life, the way zones of elevation on the side of a mountain are populated by distinct sets of plants. Forbes also thought he saw, as he later told the British Association, that "the number of species and individuals diminishes as we descend, pointing to a zero in the distribution of animal life as yet unvisited. This zero, Forbes casually speculated-he simply extended a line on his graph of animal number versus depth-probably began at a depth of 1,800 feet. Below that was the final zone in Forbes's scheme, zone nine, a zone that covered most of the ocean floor and thus most of the solid surface of Earth: Forbes called this the azoic zone, where no animal, to say nothing of plants, could survive. Forbes's azoic zone was entirely plausible at the time, and it was certainly far from the strangest idea that was then entertained about the deep sea. In the first decade of the nineteenth century, a French naturalist named François Péron had sailed around the world measuring the temperature of the ocean. He found that the deeper the water, the colder it got, and he concluded that the seafloor was covered with a thick layer of ice. [] Péron ignored the fact that water expands when it freezes and that ice therefore floats. [] A more popular belief at the time was that water at great depth would be compressed to such a density that nothing could sink through it. [] This ignored the fact that water is all but incompressible. [] But even the more sensible naturalists of the day were guilty of a similar misconception. They imagined the deep sea as being filled with an unmoving and undisturbable pool of cold, dense water. In reality the deep is always being refreshed by cold water sinking from above. The central implication of all these misconceptions was that nothing could live in the abyss (deep), just as Forbes's observations seemed to indicate. But Forbes erred in two ways. One was the particular study site he happened to use as a springboard for his sweeping postulate of a lifeless abyss. Although the Aegean had been the birthplace of marine biology, its depths are now known to be exceptionally lacking in animal diversity. Moreover, through no fault of his own, Forbes was not particularly successful at sampling such life as did exist at the bottom of the Aegean. It was his dredge that was inadequate. Its opening was so small and the holes in the net so large that the dredge inevitably missed animals. Many of those it did catch must have poured out of its open mouth when Forbes reeled it in. His azoic zone, then, was a plausible but wild extrapolation from pioneering but feeble data. As it turned out, the existence of the azoic zone had been disproved even before Forbes suggested it, and the theory continued to be contradicted regularly throughout its long and influential life. Searching for the Northwest Passage from the Atlantic to the Pacific in 1818, Sir John Ross had lowered his "deep-sea clam"-a sort of bivalved sediment scoop-into the waters of Baffin Bay(an inlet between the Atlantic and Arctic oceans), which he determined to be more than a thousand fathoms deep in some places. Modern soundings indicate he overestimated his depths by several hundred fathoms, but in any case Ross's clam dove several times deeper than Forbes's dredge. It brought back mud laced with worms, and starfish that had entangled themselves in the line at depths well below the supposed boundary of the azoic zone.
+
+

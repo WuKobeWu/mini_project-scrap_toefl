@@ -1,0 +1,82 @@
+In 1977 ecologists Stephen Hubbell and Leslie Johnson recorded a dramatic example of how social interactions can produce and enforce regular spacing in a population. They studied competition and nest spacing in populations of stingless bees in tropical dry forests in Costa Rica. Though these bees do not sting, rival colonies of some species fight fiercely over potential nesting sites. Stingless bees are abundant in tropical and subtropical environments, where they gather nectar and pollen from a wide variety of flowers. They generally nest in trees and live in colonies made up of hundreds to thousands of workers. Hubbell and Johnson observed that some species of stingless bees are highly aggressive to members of their species from other colonies, while other species are not. Aggressive species usually forage in groups and feed mainly on flowers that occur in high-density clumps.  Nonaggressive species feed singly or in small groups and on more widely distributed flowers. Hubbell and Johnson studied several species of stingless bees to determine whether there is a relationship between aggressiveness and patterns of colony distribution. They predicted that the colonies of aggressive species would show regular distributions, while those of nonaggressive species would show random or closely grouped (clumped) distributions. They concentrated their studies on a thirteen-hectare tract of tropical dry forest that contained numerous nests of nine species of stingless bees. Though Hubbell and Johnson were interested in how bee behavior might affect colony distributions, they recognized that the availability of potential nest sites for colonies could also affect distributions. So as one of the first steps in their study, they mapped the distributions of trees suitable for nesting. They found that potential nest trees were distributed randomly through the study area. They also found that the number of potential nest sites was much greater than the number of bee colonies. What did these measurements show the researchers? The number of colonies in the study area was not limited by availability of suitable trees, and a clumped or regular distribution of colonies was not due to an underlying clumped or regular distribution of potential nest sites. Hubbell and Johnson mapped the nests of five of the nine species of stingless bees accurately, and the nests of four of these species were distributed regularly. All four species with regular nest distributions were highly aggressive to bees from other colonies of their own species. The fifth species was not aggressive, and its nests were randomly distributed over the study area. The researchers also studied the process by which the aggressive species establish new colonies. Their observations provide insights into the mechanisms that establish and maintain the regular nest distribution of these species. Aggressive species apparently mark prospective nest sites with pheromones, chemical substances secreted by some animals for communication with other members of their species. The pheromone secreted by these stingless bees attracts and aggregates members of their colony to the prospective nest site; however, it also attracts workers from other nests. If workers from two different colonies arrive at the prospective nest at the same time, they may fight for possession. Fights may be escalated into protracted battles. The researchers observed battles over a nest tree that lasted for two weeks. Each dawn, fifteen to thirty workers from two competing colonies arrived at the contested nest site. The workers from the two colonies faced off in two swarms and displayed and fought with each other. In the displays, pairs of bees faced each other, slowly flew vertically to a height of about three meters, and then grappled each other to the ground. When the two bees hit the ground, they separated, faced off, and performed another aerial display. Bees did not appear to be injured in these fights, which were apparently ritualized. The two swarms abandoned the battle at about 8 or 9 A.M. each morning, only to reform and begin again the next day just after dawn. While this contest over an unoccupied nest site produced no obvious mortality, fights over occupied nests sometimes kill over 1,000 bees in a single battle.
+question 1
+According to paragraph 2, some species of stingless bees are aggressive mainly toward
+A nonaggressive bees that forage on the same flowers
+B aggressive bees of other species
+C bees from their own colony
+D bees of their own species from different colonies
+
+
+question 2
+According to paragraph 3, Hubbell and Johnson hypothesized that
+A the distribution pattern of bee colonies determines the degree of aggressiveness the bees display
+B nests of nonaggressive bees have either a random or a clumped distribution, while nests of
+aggressive bees have a regular distribution
+C nests of nonaggressive bees are generally both closer together and more regularly distributed than those of aggressive bees
+D nests of aggressive bees tend to be more regular in shape than those of nonaggressive bees
+
+
+question 3
+According to paragraph 4, why did Hubbell and Johnson begin their study by mapping all the potential nest sites?
+A To determine whether the availability of potential nest sites played a role in the distribution of bee colonies
+B To know exactly where in the study area the colonies of all the different bee species were located
+C To be sure that suitable nesting sites were equally available in all parts of the study area
+D To find out whether different species of bees preferred different types of trees as potential nest sites
+
+
+question 4
+Which of the sentences below best expresses the essential information in the highlighted sentence in the passage? Incorrect choices change the meaning in important ways or leave out essential information.
+A The limited number of colonies was not due to the distribution or availability of potential nesting sites.
+B There was no lack of suitable trees or potential nesting sites in the study area.
+C The number of nests was directly related to the number or the distribution of suitable trees.
+D Neither the number nor the distribution of colonies could be explained by the availability of suitable nest sites.
+
+
+question 5
+According to paragraph 5, Hubbell and Johnson determined
+A the order in which the colonies in the study area had been established
+B the level of aggressiveness of each of the nine species
+C the distribution pattern of the nests of five of the nine species
+D the number of colonies of each of the nine species
+
+
+question 6
+Why does the author indicate that "The fifth species was not aggressive, and its nests were randomly distributed over the study area" ?
+A To identify research results that contradicted Hubbell and Johnson’s original hypothesis
+B To indicate that research results confirmed that nest distribution was related to aggressiveness
+C To introduce the hypothesis that, within the same species, not all colonies are aggressive
+D To point out that both aggressive and nonaggressive species are equally successful at finding nest sites
+
+
+question 7
+According to paragraph 6, what is one result of using pheromones to mark nest sites?
+A The use of pheromones tends to result in nest clumping.
+B Pheromones attract animals other than bees to prospective nest sites.
+C Pheromones tend to make bees aggressive.
+D Pheromones secreted by bees of one colony also attract bees of other colonies.
+
+
+question 8
+Paragraph 7 supports which of the following ideas about fights over occupied nests?
+A They are more violent than battles over unoccupied nest sites.
+B They mostly occur between colonies of different species.
+C They are more frequent than battles over unoccupied sites.
+D They last longer than battles over unoccupied sites do.
+
+
+question 9
+Look at the four squares [ ] that indicate where the following sentence could be added to the passage.
+In 1977 ecologists Stephen Hubbell and Leslie Johnson recorded a dramatic example of how social interactions can produce and enforce regular spacing in a population. They studied competition and nest spacing in populations of stingless bees in tropical dry forests in Costa Rica. Though these bees do not sting, rival colonies of some species fight fiercely over potential nesting sites. Stingless bees are abundant in tropical and subtropical environments, where they gather nectar and pollen from a wide variety of flowers. They generally nest in trees and live in colonies made up of hundreds to thousands of workers. Hubbell and Johnson observed that some species of stingless bees are highly aggressive to members of their species from other colonies, while other species are not. Aggressive species usually forage in groups and feed mainly on flowers that occur in high-density clumps.  Nonaggressive species feed singly or in small groups and on more widely distributed flowers. Hubbell and Johnson studied several species of stingless bees to determine whether there is a relationship between aggressiveness and patterns of colony distribution. They predicted that the colonies of aggressive species would show regular distributions, while those of nonaggressive species would show random or closely grouped (clumped) distributions. They concentrated their studies on a thirteen-hectare tract of tropical dry forest that contained numerous nests of nine species of stingless bees. Though Hubbell and Johnson were interested in how bee behavior might affect colony distributions, they recognized that the availability of potential nest sites for colonies could also affect distributions. [] So as one of the first steps in their study, they mapped the distributions of trees suitable for nesting. [] They found that potential nest trees were distributed randomly through the study area. [] They also found that the number of potential nest sites was much greater than the number of bee colonies. [] What did these measurements show the researchers? The number of colonies in the study area was not limited by availability of suitable trees, and a clumped or regular distribution of colonies was not due to an underlying clumped or regular distribution of potential nest sites. Hubbell and Johnson mapped the nests of five of the nine species of stingless bees accurately, and the nests of four of these species were distributed regularly. All four species with regular nest distributions were highly aggressive to bees from other colonies of their own species. The fifth species was not aggressive, and its nests were randomly distributed over the study area. The researchers also studied the process by which the aggressive species establish new colonies. Their observations provide insights into the mechanisms that establish and maintain the regular nest distribution of these species. Aggressive species apparently mark prospective nest sites with pheromones, chemical substances secreted by some animals for communication with other members of their species. The pheromone secreted by these stingless bees attracts and aggregates members of their colony to the prospective nest site; however, it also attracts workers from other nests. If workers from two different colonies arrive at the prospective nest at the same time, they may fight for possession. Fights may be escalated into protracted battles. The researchers observed battles over a nest tree that lasted for two weeks. Each dawn, fifteen to thirty workers from two competing colonies arrived at the contested nest site. The workers from the two colonies faced off in two swarms and displayed and fought with each other. In the displays, pairs of bees faced each other, slowly flew vertically to a height of about three meters, and then grappled each other to the ground. When the two bees hit the ground, they separated, faced off, and performed another aerial display. Bees did not appear to be injured in these fights, which were apparently ritualized. The two swarms abandoned the battle at about 8 or 9 A.M. each morning, only to reform and begin again the next day just after dawn. While this contest over an unoccupied nest site produced no obvious mortality, fights over occupied nests sometimes kill over 1,000 bees in a single battle.
+
+
+question 10
+Directions: Select from the seven sentences below the three sentences that correctly characterize aggressive species of stingless bees and the two sentences that correctly characterize nonaggressive species. Drag each sentence you select into the appropriate column of the table. Two of the sentences will NOT be used. This question is worth 3 points.
+A. Nests are regularly distributed.
+B. Nests are sometimes located close together.
+C. Nests always occur in large clumps.
+D. Colonies are generally made up of fewer than 100 workers.
+E. Members of a colony feed alone or in small groups.
+F. Bees feed mainly on flowers that grow in high-density clumps.
+G. Nest spacing is maintained by fighting.
+
+

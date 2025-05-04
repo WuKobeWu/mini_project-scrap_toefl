@@ -1,0 +1,82 @@
+By the eighteenth century, Britain was experiencing a severe shortage of energy. Because of the growth of population, most of the great forests of medieval Britain had long ago been replaced by fields of grain and hay. Wood was in ever-shorter supply, yet it remained tremendously important. It served as the primary source of heat for all homes and industries and as a basic raw material. Processed wood (charcoal) was the fuel that was mixed with iron ore in the blast furnace to produce pig iron (raw iron). The iron industry's appetite for wood was enormous, and by 1740 the British iron industry was stagnating. Vast forests enabled Russia to become the world's leading producer of iron, much of which was exported to Britain. But Russia's potential for growth was limited too, and in a few decades Russia would reach the barrier of inadequate energy that was already holding England back. As this early energy crisis grew worse, Britain looked toward its abundant and widely scattered reserves of coal as an alternative to its vanishing wood. Coal was first used in Britain in the late Middle Ages as a source of heat. By 1640 most homes in London were heated with it, and it also provided heat for making beer, glass, soap, and other products.  Coal was not used, however, to produce mechanical energy or to power machinery. It was there that coal's potential was enormous. As more coal was produced, mines were dug deeper and deeper and were constantly filling with water. Mechanical pumps, usually powered by hundreds of horses walking in circles at the surface, had to be installed. Such power was expensive and bothersome. In an attempt to overcome these disadvantages, Thomas Savery in 1698 and Thomas Newcomen in 1705 invented the first primitive steam engines. Both engines were extremely inefficient. Both burned coal to produce steam, which was then used to operate a pump. However, by the early 1770s, many of the Savery engines and hundreds of the Newcomen engines were operating successfully, though inefficiently, in English and Scottish mines. In the early 1760s, a gifted young Scot named James Watt was drawn to a critical study of the steam engine. Watt was employed at the time by the University of Glasgow as a skilled crafts worker making scientific instruments. In 1763, Watt was called on to repair a Newcomen engine being used in a physics course. After a series of observations, Watt saw that the Newcomen's waste of energy could be reduced by adding a separate condenser. This splendid invention, patented in 1769, greatly increased the efficiency of the steam engine. The steam engine of Watt and his followers was the technological advance that gave people, at least for a while, unlimited power and allowed the invention and use of all kinds of power equipment. The steam engine was quickly put to use in several industries in Britain. It drained mines and made possible the production of ever more coal to feed steam engines elsewhere. The steam power plant began to replace waterpower in the cotton-spinning mills as well as other industries during the 1780s, contributing to a phenomenal rise in industrialization. The British iron industry was radically transformed. The use of powerful, steam-driven bellows in blast furnaces helped iron makers switch over rapidly from limited charcoal to unlimited coke (which is made from coal) in the smelting of pig iron (the process of refining impure iron) after 1770. In the 1780s, Henry Cort developed the puddling furnace, which allowed pig iron to be refined in turn with coke. Cort also developed heavy-duty, steam-powered rolling mills, which were capable of producing finished iron in every shape and form. The economic consequence of these technical innovations in steam power was a great boom in the British iron industry. In 1740 annual British iron production was only 17,000 tons, but by 1844, with the spread of coke smelting and the impact of Cort's inventions, it had increased to 3,000,000 tons. This was a truly amazing expansion. Once scarce and expensive, iron became cheap, basic, and indispensable to the economy.
+question 1
+What can be inferred from paragraph 1 about Britain's short supply of wood in the eighteenth century?
+A Wood from Britain's great forests was being exported to other countries for profit.
+B A growing population had required cutting down forests to increase available land for farming.
+C Larger families required the construction of larger homes made from wood.
+D What was left of the great forests after the medieval period was being strictly protected.
+
+
+question 2
+Select the TWO answer choices that, according to paragraph 1, are true statements about Russia's iron industry in the eighteenth century. To obtain credit, you must select TWO answer choices.
+A Russia reached its maximum production of iron at the same time as Britain.
+B Russia exported much of its iron production to Britain.
+C Russia's appetite for iron increased rapidly after 1740.
+D Russia's energy resources eventually became insufficient and limited the growth of its iron industry.
+
+
+question 3
+Why are "beer, glass, soap, and other products" mentioned in the discussion of Britain's energy?
+A To help explain why the energy crisis was so severe
+B To show that despite the energy crisis and as early as 1640, London homes were advanced and well supplied
+C To emphasize that after 1640, British homes required energy for more than heat
+D To indicate that coal had been used for the production of certain products before the eighteenth century
+
+
+question 4
+According to paragraph 3, all of the following are ways in which the Savery and Newcomen engines were similar EXCEPT:
+A Both became relatively inexpensive after the 1770s.
+B Both produced steam by burning coal.
+C Both were used to operate pumps.
+D Both were very inefficient.
+
+
+question 5
+According to paragraph 4, what was James Watt's major achievement?
+A He was able to apply his understanding of physics to invent a variety of scientific instruments and tools for skilled crafts workers.
+B He taught university physics courses to outstanding students whose observations led to many
+patented inventions.
+C He improved the efficiency of Newcomen's engine by preventing energy from being lost.
+D He redesigned Newcomen's engine so that it no longer needed a separate condenser.
+
+
+question 6
+Which of the following is NOT mentioned in paragraph 5 as a development that greatly changed the production of iron?
+A The use of coke in the smelting of pig iron
+B The invention of a furnace that used coke to refine iron
+C The discovery of a method for increasing the production of charcoal
+D The invention of powerful machinery that could shape, form, and finish iron
+
+
+question 7
+In paragraph 6, why does the author compare British iron production in 1740 with that of 1844?
+A To contrast the amounts of iron needed in Britain in two different centuries
+B To illustrate how easy it was to make money using Cort's invention
+C To demonstrate the tremendous growth of the iron industry in Britain
+D To demonstrate how inexpensive coal had become
+
+
+question 8
+According to the passage, which of the following is true about the development of steam power?
+A The steam engine's basic technology can be traced back to medieval Britain when steam-powered machinery was being tried in farming activities.
+B Although Russia and Britain developed steam-power technology simultaneously, Britain was first to try it in a large-scale industry due to a greater need for iron.
+C Steam-power technology was largely the result of improvements developed to increase the supply of coal as a primary source of energy.
+D Adaptations to steam engines required for their use in cotton-spinning mills led to radical
+developments in machinery used in the iron industry.
+
+
+question 9
+Look at the four squares [ ] that indicate where the following sentence could be added to the passage.
+By the eighteenth century, Britain was experiencing a severe shortage of energy. [] Because of the growth of population, most of the great forests of medieval Britain had long ago been replaced by fields of grain and hay. [] Wood was in ever-shorter supply, yet it remained tremendously important. [] It served as the primary source of heat for all homes and industries and as a basic raw material. [] Processed wood (charcoal) was the fuel that was mixed with iron ore in the blast furnace to produce pig iron (raw iron). The iron industry's appetite for wood was enormous, and by 1740 the British iron industry was stagnating. Vast forests enabled Russia to become the world's leading producer of iron, much of which was exported to Britain. But Russia's potential for growth was limited too, and in a few decades Russia would reach the barrier of inadequate energy that was already holding England back. As this early energy crisis grew worse, Britain looked toward its abundant and widely scattered reserves of coal as an alternative to its vanishing wood. Coal was first used in Britain in the late Middle Ages as a source of heat. By 1640 most homes in London were heated with it, and it also provided heat for making beer, glass, soap, and other products.  Coal was not used, however, to produce mechanical energy or to power machinery. It was there that coal's potential was enormous. As more coal was produced, mines were dug deeper and deeper and were constantly filling with water. Mechanical pumps, usually powered by hundreds of horses walking in circles at the surface, had to be installed. Such power was expensive and bothersome. In an attempt to overcome these disadvantages, Thomas Savery in 1698 and Thomas Newcomen in 1705 invented the first primitive steam engines. Both engines were extremely inefficient. Both burned coal to produce steam, which was then used to operate a pump. However, by the early 1770s, many of the Savery engines and hundreds of the Newcomen engines were operating successfully, though inefficiently, in English and Scottish mines. In the early 1760s, a gifted young Scot named James Watt was drawn to a critical study of the steam engine. Watt was employed at the time by the University of Glasgow as a skilled crafts worker making scientific instruments. In 1763, Watt was called on to repair a Newcomen engine being used in a physics course. After a series of observations, Watt saw that the Newcomen's waste of energy could be reduced by adding a separate condenser. This splendid invention, patented in 1769, greatly increased the efficiency of the steam engine. The steam engine of Watt and his followers was the technological advance that gave people, at least for a while, unlimited power and allowed the invention and use of all kinds of power equipment. The steam engine was quickly put to use in several industries in Britain. It drained mines and made possible the production of ever more coal to feed steam engines elsewhere. The steam power plant began to replace waterpower in the cotton-spinning mills as well as other industries during the 1780s, contributing to a phenomenal rise in industrialization. The British iron industry was radically transformed. The use of powerful, steam-driven bellows in blast furnaces helped iron makers switch over rapidly from limited charcoal to unlimited coke (which is made from coal) in the smelting of pig iron (the process of refining impure iron) after 1770. In the 1780s, Henry Cort developed the puddling furnace, which allowed pig iron to be refined in turn with coke. Cort also developed heavy-duty, steam-powered rolling mills, which were capable of producing finished iron in every shape and form. The economic consequence of these technical innovations in steam power was a great boom in the British iron industry. In 1740 annual British iron production was only 17,000 tons, but by 1844, with the spread of coke smelting and the impact of Cort's inventions, it had increased to 3,000,000 tons. This was a truly amazing expansion. Once scarce and expensive, iron became cheap, basic, and indispensable to the economy.
+
+
+question 10
+Directions: An introductory sentence for a brief summary of the passage is provided below. Complete the summary by selecting the THREE answer choices that express the most important ideas in the passage. Some sentences do not belong in the summary because they express ideas that are not presented in the passage or are minor ideas in the passage. This question is worth 2 points.
+A. The development of blast furnaces for the manufacture of pig iron made the British less dependent on wood.
+B. After the medieval period, both Russia and Britain began to look for alternative sources of energy, such as steam power, in order to maintain the growth of their iron industries.
+C. Two inventors designed the first steam engines in order to overcome the disadvantages of relying on horses to power the pumps used in mining coal.
+D. JamesWatt was able to improve upon the efficiency of the steam engine and make it useful to several industries.
+E. The puddling furnace increased the availability of charcoal to a variety of industries from cotton to iron production.
+F. Steam power increased coal production, which in turn allowed extraordinary growth of the iron industry and the British economy.
+
+

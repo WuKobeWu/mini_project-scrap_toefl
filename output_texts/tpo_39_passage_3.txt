@@ -1,0 +1,78 @@
+Forest fires have recently increased in intensity and extent in some forest types throughout the western United States. This recent increase in fires has resulted partly from climate change (the recent trend toward hot, dry summers) and partly from human activities, for complicated reasons that foresters came increasingly to understand about 30 years ago but whose relative importance is still debated. One factor is the direct effect of logging, which often turns a forest into something approximating a huge pile of kindling (wood for burning): the ground in a logged forest may remain covered with branches and treetops, left behind when the valuable trunks are carted away; a dense growth of new vegetation springs up, further increasing the forest's fuel loads; and the trees logged and removed are of course the biggest and most fire-resistant individuals, leaving behind smaller and more flammable trees. Another factor is that the United States Forest Service in the first decade of the 1900s adopted the policy of fire suppression (attempting to put out forest fires) for the obvious reason that it did not want valuable timber to go up in smoke, or people's homes and lives to be threatened. The Forest Service's announced goal became "Put out every forest fire by 10:00 A.M. on the morning after the day when it is first reported."  Firefighters became much more successful at achieving that goal after 1945, thanks to improved firefighting technology. For a few decades the amount of land burnt annually decreased by 80 percent. That happy situation began to change in the 1980s, due to the increasing frequency of large forest fires that were essentially impossible to extinguish unless rain and low winds combined to help.People began to realize that the United States federal government's fire-suppression policy was contributing to those big fires and that natural fires caused by lightning had previously played an important role in maintaining forest structure. The natural role of fire varies with altitude, tree species, and forest type. To take Montana's low-altitude ponderosa pine forest as an example, historical records, plus counts of annual tree rings and datable fire scars on tree stumps, demonstrated that a ponderosa pine forest experiences a lightning-lit fire about once a decade under natural conditions (i.e., before fire suppression began around 1910 and became effective after 1945). The mature ponderosa trees have bark two inches thick and are relatively resistant to fire, which instead burns out the understory-the lower layer-of fire-sensitive Douglas fir seedlings that have grown up since the previous fire. But after only a decade's growth until the next fire, those young seedling plants are still too low for fire to spread from them into the crowns of the ponderosa pine trees. Hence the fire remains confined to the ground and understory. As a result, many natural ponderosa pine forests have a parklike appearance, with low fuel loads, big trees spaced apart, and a relatively clear understory. However, loggers concentrated on removing those big, old, valuable, fire-resistant ponderosa pines, while fire suppression for decades let the understory fill up with Douglas fir saplings that would in turn become valuable when full-grown. Tree densities increased from 30 to 200 trees per acre, the forest's fuel load increased by a factor of 6, and the government repeatedly failed to appropriate money to thin out the saplings. When a fire finally does start in a sapling-choked forest, whether due to lightning or human carelessness or (regrettably often) intentional arson, the dense, tall saplings (young trees) may become a ladder that allows the fire to jump into the crowns of the trees. The outcome is sometimes an unstoppable inferno. Foresters now identify the biggest problem in managing Western forests as what to do with those increased fuel loads that built up during the previous half century of effective fire suppression. In the wetter eastern United States, dead trees rot away more quickly than in the drier West, where more dead trees persist like giant matchsticks. In an ideal world, the Forest Service would manage and restore the forests, thin them out, and remove the dense understory by cutting or by controlled small fires. But no politician or voter wants to spend what it would cost to do that.
+question 1
+Which of the sentences below best expresses the essential information in the highlighted sentence in the passage? Incorrect choices change the meaning in important ways or leave out essential information.
+A Climate change caused by human activity is the main reason for the increase in fires over the past 30 years.
+B While human activity is definitely considered a factor, foresters are still debating whether climate plays a role in the recent increase in fires.
+C For complicated reasons, over the past 30 years there has been an increase in the number of fires that take place during hot, dry summers.
+D Both climate change and human activities are responsible for the recent increase in forest fires, although the contributions of those factors are still not agreed on.
+
+
+question 2
+All of the following are mentioned in paragraph 1 as consequences of logging that can promote forest fires EXCEPT:
+A Fires are accidentally started by loggers.
+B Pieces of flammable wood are left behind in the forest.
+C There is a dense growth of new plants that act as fuel for fire.
+D The most fire-resistant trees are removed by the loggers.
+
+
+question 3
+What can be inferred from paragraph 2 about forest-fire suppression before 1900?
+A It was more effective than afterward because there were fewer fires to suppress in most regions.
+B There was no official program of forest-fire suppression in the United States.
+C Forest-fire suppression was practiced more for the purpose of protecting homes than for protecting forests.
+D The Forest Service had rules to control forest fires, but the rules were ignored.
+
+
+question 4
+Why does the author include the quotation "Put out every forest fire by 10:00 A.M. on the morning after the day when it is first reported" ?
+A To suggest that the Forest Service’s goals were unrealistic and ultimately unattainable
+B To demonstrate how seriously the Forest Service took their responsibility of fire suppression
+C To support the idea that fire-suppression techniques are most effective early in the day
+D To provide an example of the new methods that resulted in successful firefighting after 1945
+
+
+question 5
+According to paragraph 3, all of the following have been used to determine the frequency of forest fires under natural conditions in Montana’s ponderosa pine forests EXCEPT
+A recent records of fire-suppression efforts in the region
+B historical documents
+C examination of tree rings on burned trees
+D the dating of scars on remaining stumps of fire-damaged trees
+
+
+question 6
+In paragraph 3, what is the author’s purpose in describing the natural cycle of fires in ponderosa pine forests?
+A To emphasize the importance of replanting seedlings after a forest fire
+B To argue for increasing the effectiveness of laws to suppress forest fires
+C To describe how fire affects a typical ponderosa pine forest in the absence of human intervention
+D To explain the long-lasting damage that once occurred in the ponderosa pine forests of Montana before fires were controlled
+
+
+question 7
+According to paragraph 4, why is the human preservation of Douglas fir sapling trees a threat to the ponderosa pine forest?
+A The presence of many sapling trees makes it more difficult for firefighters to reach the source of a forest fire.
+B Douglas fir saplings are expensive to maintain, leaving little government money for forest fire suppression.
+C Saplings compete for space with the larger and more valuable fire-resistant trees.
+D Dense areas of tall sapling trees can spread fire to the crowns of larger, fire-resistant trees.
+
+
+question 8
+What does paragraph 5 describe as a solution to the fires in Western forests?
+A The careful management of forests to reduce the buildup of fuel loads
+B The preservation of a dense understory
+C The occasional flooding of western forests to make them as wet as those in the East
+D A return to the effective methods of fire suppression of the previous half century
+
+
+question 9
+According to paragraph 5, people in the United States would probably not support the described forest-management and restoration techniques because they
+A think that the use of small, controlled fires may be too dangerous
+B do not want to spend money on the expensive process of managing forest understory
+C distrust the Forest Service due to the harmful fire-suppression techniques of the past
+D do not want politicians involved in forest management
+
+
+question 10
+Look at the four squares [ ] that indicate where the following sentence could be added to the passage.
+Forest fires have recently increased in intensity and extent in some forest types throughout the western United States. This recent increase in fires has resulted partly from climate change (the recent trend toward hot, dry summers) and partly from human activities, for complicated reasons that foresters came increasingly to understand about 30 years ago but whose relative importance is still debated.  One factor is the direct effect of logging, which often turns a forest into something approximating a huge pile of kindling (wood for burning): the ground in a logged forest may remain covered with branches and treetops, left behind when the valuable trunks are carted away; a dense growth of new vegetation springs up, further increasing the forest's fuel loads; and the trees logged and removed are of course the biggest and most fire-resistant individuals, leaving behind smaller and more flammable trees. Another factor is that the United States Forest Service in the first decade of the 1900s adopted the policy of fire suppression (attempting to put out forest fires) for the obvious reason that it did not want valuable timber to go up in smoke, or people's homes and lives to be threatened. The Forest Service's announced goal became "Put out every forest fire by 10:00 A.M. on the morning after the day when it is first reported." [] Firefighters became much more successful at achieving that goal after 1945, thanks to improved firefighting technology. [] For a few decades the amount of land burnt annually decreased by 80 percent. [] That happy situation began to change in the 1980s, due to the increasing frequency of large forest fires that were essentially impossible to extinguish unless rain and low winds combined to help. [] People began to realize that the United States federal government's fire-suppression policy was contributing to those big fires and that natural fires caused by lightning had previously played an important role in maintaining forest structure. The natural role of fire varies with altitude, tree species, and forest type. To take Montana's low-altitude ponderosa pine forest as an example, historical records, plus counts of annual tree rings and datable fire scars on tree stumps, demonstrated that a ponderosa pine forest experiences a lightning-lit fire about once a decade under natural conditions (i.e., before fire suppression began around 1910 and became effective after 1945). The mature ponderosa trees have bark two inches thick and are relatively resistant to fire, which instead burns out the understory-the lower layer-of fire-sensitive Douglas fir seedlings that have grown up since the previous fire. But after only a decade's growth until the next fire, those young seedling plants are still too low for fire to spread from them into the crowns of the ponderosa pine trees. Hence the fire remains confined to the ground and understory. As a result, many natural ponderosa pine forests have a parklike appearance, with low fuel loads, big trees spaced apart, and a relatively clear understory. However, loggers concentrated on removing those big, old, valuable, fire-resistant ponderosa pines, while fire suppression for decades let the understory fill up with Douglas fir saplings that would in turn become valuable when full-grown. Tree densities increased from 30 to 200 trees per acre, the forest's fuel load increased by a factor of 6, and the government repeatedly failed to appropriate money to thin out the saplings. When a fire finally does start in a sapling-choked forest, whether due to lightning or human carelessness or (regrettably often) intentional arson, the dense, tall saplings (young trees) may become a ladder that allows the fire to jump into the crowns of the trees. The outcome is sometimes an unstoppable inferno. Foresters now identify the biggest problem in managing Western forests as what to do with those increased fuel loads that built up during the previous half century of effective fire suppression. In the wetter eastern United States, dead trees rot away more quickly than in the drier West, where more dead trees persist like giant matchsticks. In an ideal world, the Forest Service would manage and restore the forests, thin them out, and remove the dense understory by cutting or by controlled small fires. But no politician or voter wants to spend what it would cost to do that.
+
+

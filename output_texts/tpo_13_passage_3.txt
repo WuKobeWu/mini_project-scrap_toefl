@@ -1,0 +1,78 @@
+In the study of perceptual abilities of infants, a number of techniques are used to determine infants' responses to various stimuli. Because they cannot verbalize or fill out questionnaires, indirect techniques of naturalistic observation are used as the primary means of determining what infants can see, hear, feel, and so forth. Each of these methods compares an infant's state prior to the introduction of a stimulus with its state during or immediately following the stimulus. The difference between the two measures provides the researcher with an indication of the level and duration of the response to the stimulus. For example, if a uniformly moving pattern of some sort is passed across the visual field of a neonate (newborn), repetitive following movements of the eye occur. The occurrence of these eye movements provides evidence that the moving pattern is perceived at some level by the newborn. Similarly, changes in the infant's general level of motor activity -turning the head, blinking the eyes, crying, and so forth - have been used by researchers as visual indicators of the infant's perceptual abilities. Such techniques, however, have limitations. First, the observation may be unreliable in that two or more observers may not agree that the particular response occurred, or to what degree it occurred. Second, responses are difficult to quantify. Often the rapid and diffuse movements of the infant make it difficult to get an accurate record of the number of responses. The third, and most potent, limitation is that it is not possible to be certain that the infant's response was due to the stimulus presented or to a change from no stimulus to a stimulus. The infant may be responding to aspects of the stimulus different than those identified by the investigator. Therefore, when observational assessment is used as a technique for studying infant perceptual abilities, care must be taken not to overgeneralize from the data or to rely on one or two studies as conclusive evidence of a particular perceptual ability of the infant. Observational assessment techniques have become much more sophisticated, reducing the limitations just presented. Film analysis of the infant's responses, heart and respiration rate monitors, and nonnutritive sucking devices are used as effective tools in understanding infant perception. Film analysis permits researchers to carefully study the infant's responses over and over and in slow motion. Precise measurements can be made of the length and frequency of the infant's attention between two stimuli. Heart and respiration monitors provide the investigator with the number of heartbeats or breaths taken when a new stimulus is presented. Numerical increases are used as quantifiable indicators of heightened interest in the new stimulus. Increases in nonnutritive sucking were first used as an assessment measure by researchers in 1969. They devised an apparatus that connected a baby's pacifier to a counting device. As stimuli were presented, changes in the infant's sucking behavior were recorded. Increases in the number of sucks were used as an indicator of the infant's attention to or preference for a given visual display. Two additional techniques of studying infant perception have come into vogue. The first is the habituation-dishabituation technique, in which a single stimulus is presented repeatedly to the infant until there is a measurable decline (habituation) in whatever attending behavior is being observed. At that point a new stimulus is presented, and any recovery (dishabituation) in responsiveness is recorded. If the infant fails to dishabituate and continues to show habituation with the new stimulus, it is assumed that the baby is unable to perceive the new stimulus as different. The habituation-dishabituation paradigm has been used most extensively with studies of auditory and olfactory perception in infants. The second technique relies on evoked potentials, which are electrical brain responses that may be related to a particular stimulus because of where they originate. Changes in the electrical pattern of the brain indicate that the stimulus is getting through to the infant's central nervous system and eliciting some form of response. Each of the preceding techniques provides the researcher with evidence that the infant can detect or discriminate between stimuli. With these sophisticated observational assessment and electro-physiological measures, we know that the neonate of only a few days is far more perceptive than previously suspected. However, these measures are only "indirect" indicators of the infant's perceptual abilities.
+question 1
+Paragraph 1 indicates that researchers use indirect methods primarily to observe the
+A range of motor activity in neonates
+B frequency and duration of various stimuli
+C change in an infant's state following the introduction of a stimulus
+D range of an infant's visual field
+
+
+question 2
+Why does the author mention "repetitive following movements of the eye" ?
+A To identify a response that indicates a neonate's perception of a stimulus
+B To explain why a neonate is capable of responding to stimuli only through repetitive movements
+C To argue that motor activity in a neonate may be random and unrelated to stimuli
+D To emphasize that responses to stimuli vary in infants according to age
+
+
+question 3
+Which of the following is NOT mentioned in paragraph 2 as a problem in using the technique of direct observation?
+A It is impossible to be certain of the actual cause of an infant's response.
+B Infants' responses, which occur quickly and diffusely, are often difficult to measure.
+C Infants do not respond well to stimuli presented in an unnatural laboratory setting.
+D It may be difficult for observers to agree on the presence or the degree of a response.
+
+
+question 4
+Which of the sentences below best expresses the essential information in the highlighted sentence in the passage? Incorrect choices change the meaning in important ways or leave out essential information.
+A Researchers using observational assessment techniques on infants must not overgeneralize and must base their conclusions on data from many studies.
+B On the basis of the data from one or two studies, it seems that some infants develop a particular perceptual ability not observed in others.
+C To use data from one or two studies on infant's perceptual abilities, it is necessary to use techniques that will provide conclusive evidence.
+D When researchers fail to make generalizations from their studies, their observed data is often inconclusive.
+
+
+question 5
+What is the author's primary purpose in paragraph 3?
+A To explain why researchers must conduct more than one type of study when they are attempting to understand infant perception
+B To describe new techniques for observing infant perception that overcome problems identified in the previous paragraph
+C To present and evaluate the conclusions of various studies on infant perception
+D To point out the strengths and weaknesses of three new methods for quantifying an infant's reaction to stimuli
+
+
+question 6
+Paragraph 3 mentions all of the following as indications of an infant's heightened interest in a new stimulus EXCEPT an increase in
+A sucking behavior
+B heart rate
+C the number of breaths taken
+D eye movements
+
+
+question 7
+According to paragraph 4, which of the following leads to the conclusion that infants are able to differentiate between stimuli in a habituation-dishabituation study?
+A Dishabituation occurs with the introduction of a new stimulus.
+B Electrical responses in the infant's brain decline with each new stimulus.
+C Habituation is continued with the introduction of a new stimulus.
+D The infant displays little change in electrical brain responses.
+
+
+question 8
+In paragraph 4, what does the author suggest about the way an infant's brain perceives stimuli?
+A An infant's potential to respond to a stimulus may be related to the size of its brain.
+B Changes in the electrical patterns of an infant's brain are difficult to detect.
+C Different areas of an infant's brain respond to different types of stimuli.
+D An infant is unable to perceive more than one stimulus at a time.
+
+
+question 9
+Paragraph 5 indicates that researchers who used the techniques described in the passage discovered that
+A infants find it difficult to perceive some types of stimuli
+B neonates of only a few days cannot yet discriminate between stimuli
+C observational assessment is less useful for studying infant perception than researchers previously believed
+D a neonate is able to perceive stimuli better than researchers once thought
+
+
+question 10
+Look at the four squares [ ] that indicate where the following sentence could be added to the passage. Where would the sentence best fit?
+In the study of perceptual abilities of infants, a number of techniques are used to determine infants' responses to various stimuli. Because they cannot verbalize or fill out questionnaires, indirect techniques of naturalistic observation are used as the primary means of determining what infants can see, hear, feel, and so forth. Each of these methods compares an infant's state prior to the introduction of a stimulus with its state during or immediately following the stimulus. The difference between the two measures provides the researcher with an indication of the level and duration of the response to the stimulus. For example, if a uniformly moving pattern of some sort is passed across the visual field of a neonate (newborn), repetitive following movements of the eye occur. The occurrence of these eye movements provides evidence that the moving pattern is perceived at some level by the newborn. Similarly, changes in the infant's general level of motor activity -turning the head, blinking the eyes, crying, and so forth - have been used by researchers as visual indicators of the infant's perceptual abilities. Such techniques, however, have limitations. First, the observation may be unreliable in that two or more observers may not agree that the particular response occurred, or to what degree it occurred. Second, responses are difficult to quantify. Often the rapid and diffuse movements of the infant make it difficult to get an accurate record of the number of responses. The third, and most potent, limitation is that it is not possible to be certain that the infant's response was due to the stimulus presented or to a change from no stimulus to a stimulus. The infant may be responding to aspects of the stimulus different than those identified by the investigator. Therefore, when observational assessment is used as a technique for studying infant perceptual abilities, care must be taken not to overgeneralize from the data or to rely on one or two studies as conclusive evidence of a particular perceptual ability of the infant. Observational assessment techniques have become much more sophisticated, reducing the limitations just presented. Film analysis of the infant's responses, heart and respiration rate monitors, and nonnutritive sucking devices are used as effective tools in understanding infant perception. [] Film analysis permits researchers to carefully study the infant's responses over and over and in slow motion. [] Precise measurements can be made of the length and frequency of the infant's attention between two stimuli. [] Heart and respiration monitors provide the investigator with the number of heartbeats or breaths taken when a new stimulus is presented. [] Numerical increases are used as quantifiable indicators of heightened interest in the new stimulus. Increases in nonnutritive sucking were first used as an assessment measure by researchers in 1969. They devised an apparatus that connected a baby's pacifier to a counting device. As stimuli were presented, changes in the infant's sucking behavior were recorded. Increases in the number of sucks were used as an indicator of the infant's attention to or preference for a given visual display. Two additional techniques of studying infant perception have come into vogue. The first is the habituation-dishabituation technique, in which a single stimulus is presented repeatedly to the infant until there is a measurable decline (habituation) in whatever attending behavior is being observed. At that point a new stimulus is presented, and any recovery (dishabituation) in responsiveness is recorded. If the infant fails to dishabituate and continues to show habituation with the new stimulus, it is assumed that the baby is unable to perceive the new stimulus as different. The habituation-dishabituation paradigm has been used most extensively with studies of auditory and olfactory perception in infants. The second technique relies on evoked potentials, which are electrical brain responses that may be related to a particular stimulus because of where they originate. Changes in the electrical pattern of the brain indicate that the stimulus is getting through to the infant's central nervous system and eliciting some form of response. Each of the preceding techniques provides the researcher with evidence that the infant can detect or discriminate between stimuli. With these sophisticated observational assessment and electro-physiological measures, we know that the neonate of only a few days is far more perceptive than previously suspected. However, these measures are only "indirect" indicators of the infant's perceptual abilities.
+
+

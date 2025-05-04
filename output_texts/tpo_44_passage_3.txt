@@ -1,0 +1,80 @@
+Many areas of the shallow sea bottom are covered with a lush growth of aquatic flowering plants adapted to live submerged in seawater. These plants are collectively called seagrasses. Seagrass beds are strongly influenced by several physical factors. The most significant is water motion: currents and waves. Since seagrass systems exist in both sheltered and relatively open areas, they are subject to differing amounts of water motion. For any given seagrass system, however, the water motion is relatively constant. Seagrass meadows in relatively turbulent waters tend to form a mosaic of individual mounds, whereas meadows in relatively calm waters tend to form flat, extensive carpets. The seagrass beds, in turn, dampen wave action, particularly if the blades reach the water surface. This damping effect can be significant to the point where just one meter into a seagrass bed the wave motion can be reduced to zero. Currents are also slowed as they move into the bed. The slowing of wave action and currents means that seagrass beds tend to accumulate sediment. However, this is not universal and depends on the currents under which the bed exists. Seagrass beds under the influence of strong currents tend to have many of the lighter particles, including seagrass debris, moved out, whereas beds in weak current areas accumulate lighter detrital material.  It is interesting that temperate seagrass beds accumulate sediments from sources outside the beds, whereas tropical seagrass beds derive most of their sediments from within. Since most seagrass systems are depositional environments, they eventually accumulate organic material that leads to the creation of fine-grained sediments with a much higher organic content than that of the surrounding unvegetated areas. This accumulation, in turn, reduces the water movement and the oxygen supply. The high rate of metabolism (the processing of energy for survival) of the microorganisms in the sediments causes sediments to be anaerobic (without oxygen) below the first few millimeters. According to ecologist J.W. Kenworthy, anaerobic processes of the microorganisms in the sediment are an important mechanism for regenerating and recycling nutrients and carbon, ensuring the high rates of productivity-that is, the amount of organic material produced-that are measured in those beds. In contrast to other productivity in the ocean, which is confined to various species of algae and bacteria dependent on nutrient concentrations in the water column, seagrasses are rooted plants that absorb nutrients from the sediment or substrate. They are, therefore, capable of recycling nutrients into the ecosystem that would otherwise be trapped in the bottom and rendered unavailable. Other physical factors that have an effect on seagrass beds include light, temperature, and desiccation (drying out). For example, water depth and turbidity (density of particles in the water) together or separately control the amount of light available to the plants and the depth to which the seagrasses may extend. Although marine botanist W.A. Setchell suggested early on that temperature was critical to the growth and reproduction of eelgrass, it has since been shown that this particularly widespread seagrass grows and reproduces at temperatures between 2 and 4 degrees Celsius in the Arctic and at temperatures up to 28 degrees Celsius on the northeastern coast of the United States. Still, extreme temperatures, in combination with other factors, may have dramatic detrimental effects. For example, in areas of the cold North Atlantic, ice may form in winter. Researchers Robertson and Mann note that when the ice begins to break up, the wind and tides may move the ice around, scouring the bottom and uprooting the eelgrass. In contrast, at the southern end of the eelgrass range, on the southeastern coast of the United States, temperatures over 30 degrees Celsius in summer cause excessive mortality. Seagrass beds also decline if they are subjected to too much exposure to the air. The effect of desiccation is often difficult to separate from the effect of temperature. Most seagrass beds seem tolerant of considerable changes in salinity (salt levels)and can be found in brackish (somewhat salty) waters as well as in full-strength seawater.
+question 1
+According to paragraph 1, which of the following is true about seagrasses in calm ocean waters?
+A They will not survive for very long without the nutrients brought in by fast-moving waters.
+B They tend to form beds covering large areas along the ocean floor.
+C They usually are arranged in separate mounds.
+D They grow more slowly than do seagrasses in fast-moving waters.
+
+
+question 2
+According to paragraph 1, which of the following is MOST likely to describe a bed in which seagrasses reach the surface of the water?
+A The water is almost completely still.
+B The bed often has major damage from strong waves or currents.
+C The bed is generally no more than one square meter in size.
+D Grasses form a mosaic of individual mounds.
+
+
+question 3
+The word “derive” in the passage is closest in meaning to
+A maintain
+B expel
+C obtain
+D enrich
+
+
+question 4
+According to paragraph 3, which of the following does NOT accurately describe the sediments that collect in seagrass beds?
+A Fine-grained
+B Only a few millimeters deep
+C Low in oxygen
+D Rich in organic matter
+
+
+question 5
+According to paragraph 3, how do seagrasses affect the nutrient supply in the ecosystem?
+A Because of their high rate of metabolism, they consume a large percentage of the available nutrients.
+B They attract various species of algae and bacteria that produce high nutrient concentrations in the water column.
+C They take up carbon and other nutrients trapped on the sea bottom and bring them back into use.
+D Through anaerobic processes at their roots, they produce a very nutrient-rich sediment.
+
+
+question 6
+It can be inferred from paragraph 4 that the reason seagrasses do not grow in very deep water is that
+A they cannot handle intense water pressure
+B deep water is too cold
+C they would not get enough light
+D deep water is too salty
+
+
+question 7
+In paragraph 4, why does the author mention that eelgrass thrives in both the Arctic and in the northeastern United States?
+A To show that environments with extreme temperatures rarely have any effect on eelgrass
+B To identify the northern and southern limits of the range where eelgrass is found
+C To support the author’s statement that eelgrass is a particularly widespread kind of seagrass
+D To cite evidence tending to disprove one view about the importance of temperature to the growth of eelgrass
+
+
+question 8
+The word “detrimental” in the passage is closest in meaning to
+A harmful
+B significant
+C unexpected
+D distinct
+
+
+question 9
+Look at the four squares [ ] that indicate where the following sentence could be added to the passage.
+Many areas of the shallow sea bottom are covered with a lush growth of aquatic flowering plants adapted to live submerged in seawater. [] These plants are collectively called seagrasses. [] Seagrass beds are strongly influenced by several physical factors. [] The most significant is water motion: currents and waves. [] Since seagrass systems exist in both sheltered and relatively open areas, they are subject to differing amounts of water motion. For any given seagrass system, however, the water motion is relatively constant. Seagrass meadows in relatively turbulent waters tend to form a mosaic of individual mounds, whereas meadows in relatively calm waters tend to form flat, extensive carpets. The seagrass beds, in turn, dampen wave action, particularly if the blades reach the water surface. This damping effect can be significant to the point where just one meter into a seagrass bed the wave motion can be reduced to zero. Currents are also slowed as they move into the bed. The slowing of wave action and currents means that seagrass beds tend to accumulate sediment. However, this is not universal and depends on the currents under which the bed exists. Seagrass beds under the influence of strong currents tend to have many of the lighter particles, including seagrass debris, moved out, whereas beds in weak current areas accumulate lighter detrital material.  It is interesting that temperate seagrass beds accumulate sediments from sources outside the beds, whereas tropical seagrass beds derive most of their sediments from within. Since most seagrass systems are depositional environments, they eventually accumulate organic material that leads to the creation of fine-grained sediments with a much higher organic content than that of the surrounding unvegetated areas. This accumulation, in turn, reduces the water movement and the oxygen supply. The high rate of metabolism (the processing of energy for survival) of the microorganisms in the sediments causes sediments to be anaerobic (without oxygen) below the first few millimeters. According to ecologist J.W. Kenworthy, anaerobic processes of the microorganisms in the sediment are an important mechanism for regenerating and recycling nutrients and carbon, ensuring the high rates of productivity-that is, the amount of organic material produced-that are measured in those beds. In contrast to other productivity in the ocean, which is confined to various species of algae and bacteria dependent on nutrient concentrations in the water column, seagrasses are rooted plants that absorb nutrients from the sediment or substrate. They are, therefore, capable of recycling nutrients into the ecosystem that would otherwise be trapped in the bottom and rendered unavailable. Other physical factors that have an effect on seagrass beds include light, temperature, and desiccation (drying out). For example, water depth and turbidity (density of particles in the water) together or separately control the amount of light available to the plants and the depth to which the seagrasses may extend. Although marine botanist W.A. Setchell suggested early on that temperature was critical to the growth and reproduction of eelgrass, it has since been shown that this particularly widespread seagrass grows and reproduces at temperatures between 2 and 4 degrees Celsius in the Arctic and at temperatures up to 28 degrees Celsius on the northeastern coast of the United States. Still, extreme temperatures, in combination with other factors, may have dramatic detrimental effects. For example, in areas of the cold North Atlantic, ice may form in winter. Researchers Robertson and Mann note that when the ice begins to break up, the wind and tides may move the ice around, scouring the bottom and uprooting the eelgrass. In contrast, at the southern end of the eelgrass range, on the southeastern coast of the United States, temperatures over 30 degrees Celsius in summer cause excessive mortality. Seagrass beds also decline if they are subjected to too much exposure to the air. The effect of desiccation is often difficult to separate from the effect of temperature. Most seagrass beds seem tolerant of considerable changes in salinity (salt levels)and can be found in brackish (somewhat salty) waters as well as in full-strength seawater.
+
+
+question 10
+Directions: An introductory sentence for a brief summary of the passage is provided below. Complete the summary by selecting the THREE answer choices that express the most important ideas in the passage. Some sentences do not belong in the summary because they express ideas that are not presented in the passage or are minor ideas in the passage. This question is worth 2 points.
+A. Seagrass beds are influenced by several physical factors, the most significant being the stability of the sea bottom, which must anchor them against the currents.
+B. Sediments in seagrass beds vary by region, with temperate beds accumulating sediments from within, and tropical beds collecting sediments from without.
+C. Because they slow currents and waves, seagrass beds collect deposits of rich organic sediments, which are home to many anaerobic microorganisms.
+D. Seagrasses under weak currents tend to have higher rates of metabolism than those under strong currents, perhaps because of differences in oxygen levels.
+E. Unlike sea organisms that depend on the water column for their productivity, seagrasses ensure high rates of productivity by taking nutrients from ocean floor sediment.
+F. Although seagrasses survive in temperatures ranging from 2 to 28 degrees Celsius, more extreme temperatures can damage them, as can desiccation and lack of light.
+
+

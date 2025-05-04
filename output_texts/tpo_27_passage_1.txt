@@ -1,0 +1,80 @@
+Earth's surface is not made up of a single sheet of rock that forms a crust but rather a number of "tectonic plates" that fit closely, like the pieces of a giant jigsaw puzzle. Some plates carry islands or continents; others form the seafloor. All are slowly moving because the plates float on a denser semiliquid mantle, the layer between the crust and Earth's core. The plates have edges that are spreading ridges (where two plates are moving apart and new seafloor is being created), subduction zones (where two plates collide and one plunges beneath the other), or transform faults (where two plates neither converge nor diverge but merely move past one another). It is at the boundaries between plates that most of Earth's volcanism and earthquake activity occur. Generally speaking, the interiors of plates are geologically uneventful. However, there are exceptions. A glance at a map of the Pacific Ocean reveals that there are many islands far out at sea that are actually volcanoes-many no longer active, some overgrown with coral-that originated from activity at points in the interior of the Pacific Plate that forms the Pacific seafloor. How can volcanic activity occur so far from a plate boundary? The Hawaiian Islands provide a very instructive answer. Like many other island groups, they form a chain. The Hawaiian Island Chain extends northwest from the island of Hawaii. In the 1840s American geologist James Daly observed that the different Hawaiian Islands seem to share a similar geologic evolution but are progressively more eroded, and therefore probably older, toward the northwest. Then in 1963, in the early days of the development of the theory of plate tectonics, Canadian geophysicist Tuzo Wilson realized that this age progression could result if the islands were formed on a surface plate moving over a fixed volcanic source in the interior. Wilson suggested that the long chain of volcanoes stretching northwest from Hawaii is simply the surface expression of a long-lived volcanic source located beneath the tectonic plate in the mantle. Today's most northwestern island would have been the first to form. Then, as the plate moved slowly northwest, new volcanic islands would have formed as the plate moved over the volcanic source. The most recent island, Hawaii, would be at the end of the chain and is now over the volcanic source. Although this idea was not immediately accepted, the dating of lavas in the Hawaiian (and other) chains showed that their ages increase away from the presently active volcano, just as Daly had suggested. Wilson's analysis of these data is now a central part of plate tectonics. Most volcanoes that occur in the interiors of plates are believed to be produced by mantle plumes, columns of molten rock that rise from deep within the mantle.  A volcano remains an active "hot spot" as long as it is over the plume. The plumes apparently originate at great depths, perhaps as deep as the boundary between the core and the mantle, and many have been active for a very long time. The oldest volcanoes in the Hawaiian hot-spot trail have ages close to 80 million years. Other islands, including Tahiti and Easter Island in the Pacific, Reunion and Mauritius in the Indian Ocean, and indeed most of the large islands in the world's oceans, owe their existence to mantle plumes. The oceanic volcanic islands and their hot-spot trails are thus especially useful for geologists because they record the past locations of the plate over a fixed source. They therefore permit the reconstruction of the process of seafloor spreading, and consequently of the geography of continents and of ocean basins in the past. For example, given the current position of the Pacific Plate, Hawaii is above the Pacific Ocean hot spot. So the position of the Pacific Plate 50 million years ago can be determined by moving it such that a 50-million-year-old volcano in the hot-spot trail sits at the location of Hawaii today. However, because the ocean basins really are short-lived features on geologic time scales, reconstructing the world's geography by backtracking along the hot-spot trail works only for the last 5 percent or so of geologic time.
+question 1
+The word “converge” in the passage is closest in meaning to
+A expand
+B form
+C rise
+D move closer
+
+
+question 2
+Which of the sentences below best expresses the essential information in the highlighted sentence in the passage? Incorrect choices change the meaning in important ways or leave out essential information.
+A Volcanic activity is responsible for the formation of the Pacific seafloor in the interior of the Pacific Plate.
+B Many volcanoes in the Pacific Ocean are no longer active and have become islands that support coral.
+C There are many islands in the Pacific Ocean that originated as volcanoes in the interior of the Pacific Plate.
+D The map of the Pacific Ocean reveals fewer volcanic islands than there truly are because many are no longer active and some are completely overgrown with coral.
+
+
+question 3
+According to paragraph 3, what is the relationship between the scientific contributions of James Daly and Tuzo Wilson?
+A Wilson provided an explanation for the observations made by Daly.
+B Wilson challenged the theory proposed by Daly.
+C Wilson found numerous examples of island chains that supported Daly’s theory.
+D Wilson popularized the explanation of volcanic island formation formulated by Daly.
+
+
+question 4
+Why does the author provide the information that “the dating of lavas in the Hawaiian (and other) chains showed that their ages increase away from the presently active volcano” ?
+A To point out differences between the Hawaiian Island chain and other volcanic island chains
+B To question the idea that all the islands in an island chain have been formed by volcanic activity
+C To explain why Wilson’s hypothesis was initially difficult to accept
+D To provide evidence in support of Daly’s and Wilson’s ideas about how the Hawaiian Islands were formed
+
+
+question 5
+According to paragraph 4, which of the following is true of mantle plumes?
+A They exist close to the surface of tectonic plates.
+B They cause most of the volcanic activity that occurs in the interiors of plates.
+C They are rarely active for long periods of time.
+D They get increasingly older away from the present hot spots.
+
+
+question 6
+What can be inferred about the Pacific Plate from paragraph 5?
+A The hot spots on the Pacific Plate are much older than the ones located on other tectonic plates.
+B Most of the volcanic sources beneath the Pacific Plate have become extinct.
+C The Pacific Plate has moved a distance equal to the length of the Hawaiian Island chain in the past 50 million years.
+D The Pacific Plate is located above fewer mantle plumes than other plates are.
+
+
+question 7
+The word “current” in the passage is closest in meaning to
+A original
+B ideal
+C relative
+D present
+
+
+question 8
+According to paragraph 5, why are geologists unable to trace back the entire geologic history of continents from hot-spot trails?
+A Hot spots have existed for only about 5 percent of geologic time.
+B Hawaii did not exist 50 million years ago.
+C Oceanic basins that contained old hot-spot trails disappeared a long time ago.
+D Hot-spot trails can be reconstructed only for island chains.
+
+
+question 9
+Look at the four squares [ ] that indicate where the following sentence could be added to the passage.
+Earth's surface is not made up of a single sheet of rock that forms a crust but rather a number of "tectonic plates" that fit closely, like the pieces of a giant jigsaw puzzle. Some plates carry islands or continents; others form the seafloor. All are slowly moving because the plates float on a denser semiliquid mantle, the layer between the crust and Earth's core. The plates have edges that are spreading ridges (where two plates are moving apart and new seafloor is being created), subduction zones (where two plates collide and one plunges beneath the other), or transform faults (where two plates neither converge nor diverge but merely move past one another). It is at the boundaries between plates that most of Earth's volcanism and earthquake activity occur. Generally speaking, the interiors of plates are geologically uneventful. However, there are exceptions. A glance at a map of the Pacific Ocean reveals that there are many islands far out at sea that are actually volcanoes-many no longer active, some overgrown with coral-that originated from activity at points in the interior of the Pacific Plate that forms the Pacific seafloor. How can volcanic activity occur so far from a plate boundary? The Hawaiian Islands provide a very instructive answer. [] Like many other island groups, they form a chain. [] The Hawaiian Island Chain extends northwest from the island of Hawaii. [] In the 1840s American geologist James Daly observed that the different Hawaiian Islands seem to share a similar geologic evolution but are progressively more eroded, and therefore probably older, toward the northwest. [] Then in 1963, in the early days of the development of the theory of plate tectonics, Canadian geophysicist Tuzo Wilson realized that this age progression could result if the islands were formed on a surface plate moving over a fixed volcanic source in the interior. Wilson suggested that the long chain of volcanoes stretching northwest from Hawaii is simply the surface expression of a long-lived volcanic source located beneath the tectonic plate in the mantle. Today's most northwestern island would have been the first to form. Then, as the plate moved slowly northwest, new volcanic islands would have formed as the plate moved over the volcanic source. The most recent island, Hawaii, would be at the end of the chain and is now over the volcanic source. Although this idea was not immediately accepted, the dating of lavas in the Hawaiian (and other) chains showed that their ages increase away from the presently active volcano, just as Daly had suggested. Wilson's analysis of these data is now a central part of plate tectonics. Most volcanoes that occur in the interiors of plates are believed to be produced by mantle plumes, columns of molten rock that rise from deep within the mantle.  A volcano remains an active "hot spot" as long as it is over the plume. The plumes apparently originate at great depths, perhaps as deep as the boundary between the core and the mantle, and many have been active for a very long time. The oldest volcanoes in the Hawaiian hot-spot trail have ages close to 80 million years. Other islands, including Tahiti and Easter Island in the Pacific, Reunion and Mauritius in the Indian Ocean, and indeed most of the large islands in the world's oceans, owe their existence to mantle plumes. The oceanic volcanic islands and their hot-spot trails are thus especially useful for geologists because they record the past locations of the plate over a fixed source. They therefore permit the reconstruction of the process of seafloor spreading, and consequently of the geography of continents and of ocean basins in the past. For example, given the current position of the Pacific Plate, Hawaii is above the Pacific Ocean hot spot. So the position of the Pacific Plate 50 million years ago can be determined by moving it such that a 50-million-year-old volcano in the hot-spot trail sits at the location of Hawaii today. However, because the ocean basins really are short-lived features on geologic time scales, reconstructing the world's geography by backtracking along the hot-spot trail works only for the last 5 percent or so of geologic time.
+
+
+question 10
+Directions: An introductory sentence for a brief summary of the passage is provided below. Complete the summary by selecting the THREE answer choices that express the most important ideas in the passage. Some sentences do not belong in the summary because they express ideas that are not presented in the passage or are minor ideas in the passage. This question is worth 2 points.
+A. Our understanding of volcanic islands comes from Daly’s and Wilson’s observations of the Hawaiian Islands, which was later confirmed by plate-tectonic theory.
+B. Volcanic island chains such as the Hawaiian Islands form in the interior of a tectonic plate as the plate moves over a fixed volcanic source in the mantle.
+C. It has only recently been discovered that tectonic plates are closely fitting rather than loosely constructed, as geologists previously believed.
+D. Whereas volcanic islands formed by mantle plumes are typically small, most of the world’s largest islands are formed at the edges of tectonic plates.
+E. The hot-spot trails formed by volcanic island chains indicate the positions of tectonic plates as far back as the present ocean basins have existed.
+F. The Pacific Plate has existed for as long as the Hawaiian Islands have existed, namely for more than 80 million years.
+
+

@@ -1,8 +1,8 @@
 from fpdf import FPDF
 import os
 
-in_dir = r"C:\code\mini_project\save_toefl\output_texts"  # 請替換為您的目錄路徑
-out_dir = r"C:\code\mini_project\save_toefl\output_pdfs"  # 請替換為您的目錄路徑
+in_dir = r"C:\code\mini_project\save_toefl\write_texts"  # 請替換為您的目錄路徑
+out_dir = r"C:\code\mini_project\save_toefl\write_pdfs"  # 請替換為您的目錄路徑
 txt_files = [f for f in os.listdir(in_dir) if f.endswith('.txt')]
 
 from fpdf import FPDF
